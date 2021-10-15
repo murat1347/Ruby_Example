@@ -1,0 +1,17 @@
+PATH
+  remote: ../homework
+  specs:
+    homework (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  homework!
+
+BUNDLED WITH
+   2.2.27
